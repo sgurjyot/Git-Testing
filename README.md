@@ -13,5 +13,5 @@
 
 
 - $ git commit -m "Commit Message": lets you directly commit without text editor
-- $ git branch <branch name>: makes a new branch
-- $ git checkout <branch name>: switches to the branch
+- $ git branch \<branch name\>: makes a new branch
+- $ git checkout \<branch name\>: switches to the branch
